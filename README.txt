@@ -1,3 +1,5 @@
-Program od d³u¿szego czasu nie wspó³pracuje z gr¹ przegl¹darkow¹.
-Dawno nie by³ aktualizowany, wszystkie funkcje zaczynaj¹ dzia³aæ dopiero po zalogowaniu, w tej chwili bot siê nie loguje.
-Plik ród³owy TWMB.au3
+Program od dÅ‚uzszego czasu nie wspolpracuje z gra przegladarkowa.
+Dawno nie byl aktualizowany, wszystkie funkcje zaczynaja dzialac dopiero po zalogowaniu, w tej chwili bot siÄ™ nie loguje.
+Plik zrodlowy:
+TWMB.au3 - kod programu
+OCR.au3 - kod rozwiazujacy capthe
