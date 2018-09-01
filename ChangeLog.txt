@@ -1,0 +1,52 @@
+--- v1.0.08 ---
+[FIX] Villages listing has been fixed!
+
+--- v1.0.06 ---
+[ADD] Now you can resize window as you want!
+[FIX] Hide and Show menu button are works well now!
+
+--- v1.0.05 ---
+[ADD] Now you can send attack,
+[ADD] Now you can edit attacks,
+[ADD] Now you can send 5 attacks in one time,
+[ADD] Copy X|Y And Add Attack buttons are now useful,
+[ADD] Switch ON/OFF attacks,
+[ADD] Timer to the next attack,
+[ADD] Now you can remove attacks,
+[ADD] Bot is automatically disable old attacks wgen Logg In,
+[ADD] Attacks Sort,
+[ADD] Menu for set units speed,
+[ADD] Check box for easy set multiple same attacks,
+[ADD] Clear button for clear attack set menu,
+[ADD] Better ini writing and reading information,
+[FIX] Villages list is saving faster now,
+[FIX] Optimalization,
+[CHANGE] Your browser window is not usage by script to action,
+[CHANGE] Visual Update,
+
+--- v1.0.04 ---
+[ADD] Logo when bot is loading,
+[ADD] Now you can logg in to your account,
+[ADD] New security on logg in,
+[Remove] Browser Laggs,
+
+--- v1.0.03 ---
+[CHANGE] Default x86,
+[ADD] Visual Turn On,
+[ADD] Conform Turn Off window,
+[FIX] Lagged GUI,
+[FIX] A lot of small bugs,
+[FIX] Optimalization,
+
+--- v1.0.02 ---
+[ADD] Update button,
+[ADD] Install confirm window,
+
+--- v1.0.01 ---
+[ADD] Auto Update in program,
+
+--- v1.0.00 ---
+[ADD] Hide main menu button,
+
+--- v0.0.00 ---
+[Create] TW Master bot,
