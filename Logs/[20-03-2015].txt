@@ -1,0 +1,21 @@
+[17:24:09] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[17:24:16] Zaimportowano dane konta: Mr Kot ze slotu 1
+[17:24:20] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[17:24:24] Pobrano czas serwerowy
+[17:24:24] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[17:24:25] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[17:25:40] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[17:25:49] Zedytowano atak na koncie Mr Kot (Œwiat 88)
+[17:26:52] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 321|857
+[17:26:59] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 321|857 z wioski: Kuweta  (318l860) K83
+[17:27:57] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[20:39:41] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[20:40:11] Zaimportowano dane konta: Mr Kot ze slotu 1
+[20:40:16] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[20:40:19] Pobrano czas serwerowy
+[20:40:19] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[20:40:21] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[20:51:46] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

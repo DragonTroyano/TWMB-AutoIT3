@@ -1,0 +1,1000 @@
+[09:23:16] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:23:45] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:24:12] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:24:26] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:24:36] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:24:50] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:24:56] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:25:06] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:35:08] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:35:17] Zaimportowano dane konta: kubek225 ze slotu 1
+[09:35:19] Zaimportowano dane konta: genotypek ze slotu 2
+[09:35:23] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:35:29] Pobrano czas serwerowy
+[09:35:29] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:35:29] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:35:31] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:36:06] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:36:11] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:36:19] Zaimportowano dane konta: genotypek ze slotu 2
+[09:36:22] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:36:26] Pobrano czas serwerowy
+[09:36:26] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:36:27] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:36:32] W³¹czono atak na koncie genotypek (Œwiat 80)
+[09:36:44] Wy³¹czono atak na koncie genotypek (Œwiat 80)
+[09:36:45] W³¹czono atak na koncie genotypek (Œwiat 80)
+[09:36:55] Wy³¹czono atak na koncie genotypek (Œwiat 80)
+[09:36:57] Usuniêto atak na koncie genotypek (Œwiat 80)
+[09:37:21] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[09:37:31] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:37:32] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:38:32] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:38:39] Zaimportowano dane konta: genotypek ze slotu 2
+[09:38:42] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:38:46] Pobrano czas serwerowy
+[09:38:46] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:38:47] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:38:52] Wy³¹czono atak na koncie genotypek (Œwiat 80)
+[09:38:54] W³¹czono atak na koncie genotypek (Œwiat 80)
+[09:39:09] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:39:20] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:40:06] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:40:23] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:40:28] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:40:35] Zaimportowano dane konta: genotypek ze slotu 2
+[09:40:38] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:40:40] Pobrano czas serwerowy
+[09:40:41] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:40:41] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:40:41] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:40:55] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:41:42] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:41:49] Zaimportowano dane konta: genotypek ze slotu 2
+[09:41:52] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:41:55] Pobrano czas serwerowy
+[09:41:55] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:41:55] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:41:56] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:42:19] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:42:24] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[09:43:43] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:43:50] Zaimportowano dane konta: genotypek ze slotu 2
+[09:43:53] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:43:56] Pobrano czas serwerowy
+[09:43:57] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:43:57] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:43:57] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:44:03] Usuniêto atak na koncie genotypek (Œwiat 80)
+[09:44:16] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:44:25] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[09:49:57] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:50:08] Zaimportowano dane konta: genotypek ze slotu 2
+[09:50:14] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:50:18] Pobrano czas serwerowy
+[09:50:18] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:50:18] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:50:18] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:50:33] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:50:42] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567 z wioski: Wow schowek tak bardzo. :3  (416l567) K54
+[09:50:45] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 0|0
+[09:53:37] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:53:46] Zaimportowano dane konta: genotypek ze slotu 2
+[09:53:49] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:53:53] Pobrano czas serwerowy
+[09:53:53] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[09:53:53] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:53:54] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:54:06] Usuniêto atak na koncie genotypek (Œwiat 80)
+[09:54:16] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:54:45] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[09:54:47] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567 z wioski: Wow schowek tak bardzo. :3  (416l567) K54
+[09:54:51] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[09:57:22] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:57:29] Zaimportowano dane konta: genotypek ze slotu 2
+[09:57:33] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:57:36] Pobrano czas serwerowy
+[09:57:36] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:57:37] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:57:58] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[09:58:05] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:58:08] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:58:11] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:58:18] Pobrano czas serwerowy
+[09:58:18] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:58:19] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:58:27] Zedytowano atak na koncie genotypek (Œwiat 80)
+[09:58:29] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:58:32] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[09:58:36] Pobrano czas serwerowy
+[09:58:36] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[09:58:37] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[09:58:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 416|568
+[09:58:57] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 416|568 z wioski: Wow schowek tak bardzo. :3  (416l567) K54
+[09:59:13] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:21:40] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:21:50] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:22:26] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:22:51] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:23:14] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:23:26] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:23:41] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:23:54] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:24:10] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:24:24] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:24:34] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:24:43] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:25:08] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:26:00] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:26:15] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:26:23] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:26:51] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:29:35] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:29:44] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:29:54] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:30:03] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:30:16] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:30:43] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:32:06] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:32:19] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:17:07] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:17:16] Zaimportowano dane konta: kubek225 ze slotu 1
+[13:17:16] Zaimportowano dane konta: kubek225 ze slotu 1
+[13:17:25] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:17:30] Pobrano czas serwerowy
+[13:17:30] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[13:17:31] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[13:17:34] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:23:51] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:23:57] Zaimportowano dane konta: genotypek ze slotu 2
+[13:24:03] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:24:07] Pobrano czas serwerowy
+[13:24:07] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:24:08] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:24:11] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:24:29] Rozpoczêto dzia³anie TW Master bota na koncie genotype (Œwiat 80)
+[13:24:40] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:25:35] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:25:51] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:26:22] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:28:12] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:30:36] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:31:09] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:31:18] Zaimportowano dane konta: genotypek ze slotu 2
+[13:31:51] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:31:54] Pobrano czas serwerowy
+[13:31:54] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:31:55] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:31:59] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:32:01] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:34:00] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:34:10] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:34:43] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:34:56] Zaimportowano dane konta: genotypek ze slotu 2
+[13:35:08] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:35:11] Pobrano czas serwerowy
+[13:35:11] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:35:12] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:35:16] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:35:18] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[14:07:07] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[14:07:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:07] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:35:20] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:20] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:20] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:20] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:21] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:22] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:34] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:37] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:41] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:47] Zaimportowano dane konta: genotypek ze slotu 2
+[16:35:51] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:36:48] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:36:55] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:55] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:56] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:36:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:04] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:04] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:04] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:04] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:04] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:05] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:15] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:16] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:16] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:18] Zaimportowano dane konta: genotypek ze slotu 2
+[16:37:32] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:38:16] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:38:23] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:24] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:25] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:26] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:27] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:28] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:29] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:30] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:31] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:32] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:32] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:32] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:32] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:35] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:36] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:41] Zaimportowano dane konta: genotypek ze slotu 2
+[16:38:44] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:38:51] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:39:06] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:07] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:08] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:09] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:10] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:15] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:15] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:16] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:16] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:17] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:20] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:39:48] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:57] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:58] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:39:59] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:00] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:01] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:02] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:03] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:11] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:12] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:13] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:14] Zaimportowano dane konta: genotypek ze slotu 2
+[16:40:19] Zaimportowano dane konta: genotypek ze slotu 2
+[16:50:34] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:52:04] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:52:16] Zaimportowano dane konta: genotypek ze slotu 2
+[17:17:51] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[18:45:20] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[18:46:13] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[18:46:22] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[19:15:58] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[19:16:04] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:05] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:06] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:09] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:10] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:11] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:12] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:12] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:12] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:12] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:12] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:13] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:13] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:13] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:13] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:14] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:16] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:16] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:17] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:18] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:19] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:19] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:19] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:19] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:19] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:23] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:23] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:23] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:24] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:25] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:26] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:27] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:27] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:29] Zaimportowano dane konta: genotypek ze slotu 2
+[19:16:32] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:33] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[19:20:39] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:46] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:47] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:47] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:47] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:47] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:48] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:49] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:50] Zaimportowano dane konta: kubek225 ze slotu 1
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:51] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:52] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:52] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:52] Zapisano dane konta: kubek225 na slocie 1. Has³o: TAK
+[19:20:53] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:53] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:53] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:53] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:53] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:54] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:55] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:56] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:57] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:58] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:58] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:58] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:58] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:59] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:59] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:59] Zaimportowano dane konta: genotypek ze slotu 2
+[19:20:59] Zaimportowano dane konta: genotypek ze slotu 2
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:00] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:01] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:02] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:03] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:04] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:04] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:11] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[19:21:17] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:16:55] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:17:14] Zaimportowano dane konta: genotypek ze slotu 2
+[23:17:21] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[23:17:30] Pobrano czas serwerowy
+[23:17:31] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[23:17:33] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[23:18:32] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[23:18:47] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

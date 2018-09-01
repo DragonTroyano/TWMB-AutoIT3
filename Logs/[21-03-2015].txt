@@ -1,0 +1,1478 @@
+[21:57:56] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[21:58:06] Zaimportowano dane konta: Mr Kot ze slotu 1
+[21:58:11] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[21:58:14] Pobrano czas serwerowy
+[21:58:14] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[21:58:15] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[21:58:50] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[21:59:06] Zedytowano atak na koncie Mr Kot (Œwiat 88)
+[21:59:17] Zedytowano atak na koncie Mr Kot (Œwiat 88)
+[21:59:24] Zedytowano atak na koncie Mr Kot (Œwiat 88)
+[21:59:45] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[21:59:54] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:00:44] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:00:45] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:01:05] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:02:16] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:02:20] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:04:40] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:05:57] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:06:09] Przerwano dzia³anie TW Master bota na koncie  (- Wybierz Œwiat -)
+[22:06:11] Przerwano dzia³anie TW Master bota na koncie  (- Wybierz Œwiat -)
+[22:06:14] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:06:27] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:06:33] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:06:38] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:06:41] Pobrano czas serwerowy
+[22:06:41] Wy³¹czono 2 przedawnionych ataków na koncie Mr Kot (Œwiat 88)
+[22:06:41] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:06:42] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:06:50] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:06:53] Pobrano czas serwerowy
+[22:06:53] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:06:54] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:06:57] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:07:10] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:07:38] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:07:49] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:07:53] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:07:57] Pobrano czas serwerowy
+[22:07:57] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:07:58] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:08:02] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:08:06] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:09:03] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:09:08] Zmieniono serwer na: http://www.0
+[22:09:08] Zmieniono serwer na: http://www.0
+[22:09:08] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:09] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Przerwano dzia³anie TW Master bota na koncie 0 (0)
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:10] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Przerwano dzia³anie TW Master bota na koncie 0 (0)
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Przerwano dzia³anie TW Master bota na koncie 0 (0)
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:11] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Przerwano dzia³anie TW Master bota na koncie 0 (0)
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Przerwano dzia³anie TW Master bota na koncie 0 (0)
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:12] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:13] Zmieniono serwer na: http://www.0
+[22:09:14] Zmieniono serwer na: http://www.0
+[22:09:14] Zmieniono serwer na: http://www.0
+[22:09:14] Zmieniono serwer na: http://www.0
+[22:09:14] Zmieniono serwer na: http://www.0
+[22:09:14] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:10:58] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:11:11] Przerwano dzia³anie TW Master bota na koncie  (- Wybierz Œwiat -)
+[22:11:15] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:12:28] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:12:38] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:12:42] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:12:45] Pobrano czas serwerowy
+[22:12:45] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:12:46] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:12:49] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:12:51] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:12:58] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:13:05] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:13:11] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:13:15] Pobrano czas serwerowy
+[22:13:15] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:13:15] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:13:24] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:13:53] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:13:57] Pobrano czas serwerowy
+[22:13:57] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:13:58] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:14:15] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:14:19] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:14:22] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:14:25] Pobrano czas serwerowy
+[22:14:25] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:14:26] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:14:30] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:14:33] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:14:37] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:16:08] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:16:15] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:16:19] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:16:23] Pobrano czas serwerowy
+[22:16:23] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:16:23] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:16:41] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:17:09] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:17:16] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:17:20] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:17:23] Pobrano czas serwerowy
+[22:17:23] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:17:24] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:17:32] Przerwano dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:17:36] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:18:44] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:18:51] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:18:55] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:18:59] Pobrano czas serwerowy
+[22:18:59] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:18:59] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:19:12] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:20:40] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:20:47] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:20:51] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:20:54] Pobrano czas serwerowy
+[22:20:54] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:20:55] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:21:28] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:21:56] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:22:09] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:22:16] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:31:51] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:31:59] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:32:03] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:32:06] Pobrano czas serwerowy
+[22:32:06] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:32:07] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:32:35] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:32:55] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:33:01] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:33:31] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:33:31] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:33:32] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:33:32] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:33:33] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:34:22] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:34:22] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:34:22] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:34:23] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:34:23] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:34:29] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:34:29] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:34:29] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:34:29] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:34:29] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:35:04] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:36:40] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:36:46] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:36:49] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:36:52] Pobrano czas serwerowy
+[22:36:53] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:36:53] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:37:19] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:37:19] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:37:20] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:37:25] Usuniêto atak na koncie Mr Kot (Œwiat 88)
+[22:37:27] Usuniêto atak na koncie Mr Kot (Œwiat 88)
+[22:37:41] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:37:41] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:37:41] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:37:48] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:37:48] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:37:48] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:51:03] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:51:09] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:51:14] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:51:50] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[22:51:56] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:51:58] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 88)
+[22:52:01] Pobrano czas serwerowy
+[22:52:01] Za³adowano listê ataków na koncie Mr Kot (Œwiat 88)
+[22:52:02] Pobrano listê wiosek konta Mr Kot (Œwiat 88)
+[22:52:28] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:52:28] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:52:28] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:52:29] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:52:29] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:52:49] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:52:49] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:52:49] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:52:50] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:52:50] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:52:56] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:52:56] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:52:56] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:52:56] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:52:56] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[22:55:04] Dodano nowy atak na koncie Mr Kot (Œwiat 88)
+[22:55:12] Przygotowywanie ataku do wys³ania na koncie Mr Kot (Œwiat 88) na wioskê 319|860
+[22:55:19] Wys³ano atak na koncie Mr Kot (Œwiat 88) na wioskê 319|860 z wioski: Kuweta  (318l860) K83
+[23:02:16] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

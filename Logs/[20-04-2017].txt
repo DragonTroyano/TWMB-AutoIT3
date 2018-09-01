@@ -1,0 +1,15 @@
+[21:47:17] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[21:47:33] Zaimportowano dane konta: Mr Kot ze slotu 1
+[21:47:42] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 98)
+[21:48:58] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[21:52:02] Zaimportowano dane konta: Mr Kot ze slotu 1
+[21:52:20] Zapisano dane konta: genotypek na slocie 2. Has³o: TAK
+[21:52:31] Zapisano dane konta: genotypek na slocie 3. Has³o: NIE
+[21:52:41] Zaimportowano dane konta: genotypek ze slotu 2
+[21:52:42] Zaimportowano dane konta: genotypek ze slotu 3
+[21:52:44] Zaimportowano dane konta: Mr Kot ze slotu 1
+[21:52:45] Zaimportowano dane konta: genotypek ze slotu 2
+[21:54:30] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

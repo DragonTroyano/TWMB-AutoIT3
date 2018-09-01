@@ -1,0 +1,6 @@
+[21:58:07] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[21:58:19] Zaimportowano dane konta: Mr Kot ze slotu 1
+[22:04:01] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

@@ -1,0 +1,6 @@
+[09:19:29] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:20:04] Zaimportowano dane konta: kubek225 ze slotu 1
+[09:20:10] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[09:20:30] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[09:20:39] Zaimportowano dane konta: genotypek ze slotu 2
+[09:20:43] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)

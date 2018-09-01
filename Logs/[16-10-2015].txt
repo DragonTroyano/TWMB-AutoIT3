@@ -1,0 +1,12 @@
+[17:14:32] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[17:15:09] Zaimportowano dane konta: Mr Kot ze slotu 1
+[17:15:13] Rozpoczêto dzia³anie TW Master bota na koncie Mr Kot (Œwiat 90)
+[17:15:19] Pobrano czas serwerowy
+[17:15:19] Wy³¹czono 1 przedawnionych ataków na koncie Mr Kot (Œwiat 90)
+[17:15:19] Za³adowano listê ataków na koncie Mr Kot (Œwiat 90)
+[17:15:20] Pobrano listê wiosek konta Mr Kot (Œwiat 90)
+[17:15:40] Usuniêto atak na koncie Mr Kot (Œwiat 90)
+[17:16:36] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

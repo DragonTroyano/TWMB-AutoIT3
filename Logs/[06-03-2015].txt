@@ -1,0 +1,3 @@
+[17:09:54] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[17:12:18] Zaimportowano dane konta: genotypek ze slotu 2
+[17:12:26] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 81)

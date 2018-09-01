@@ -1,0 +1,558 @@
+[11:38:40] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:38:53] Zaimportowano dane konta: kubek225 ze slotu 1
+[11:38:56] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 80)
+[11:39:02] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:39:05] Zaimportowano dane konta: kubek225 ze slotu 1
+[11:39:08] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[11:39:08] Pobrano czas serwerowy
+[11:39:08] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[11:39:08] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[11:39:31] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:40:21] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:42:27] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:42:29] Zaimportowano dane konta: genotypek ze slotu 2
+[11:42:33] Zaimportowano dane konta: kubek225 ze slotu 1
+[11:42:33] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[11:42:33] Pobrano czas serwerowy
+[11:42:33] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[11:42:33] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[11:43:01] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:43:17] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:43:26] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:43:26] Zedytowano atak na koncie kubek225 (Œwiat 78)
+[11:43:42] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:43:49] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[11:44:19] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:44:23] Zaimportowano dane konta: kubek225 ze slotu 1
+[11:44:25] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[11:44:25] Pobrano czas serwerowy
+[11:44:25] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[11:44:25] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[11:44:34] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:36] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:38] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:40] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:43] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:47] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:49] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:51] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:44:53] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[11:45:54] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:46:04] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:46:04] Zedytowano atak na koncie kubek225 (Œwiat 78)
+[11:46:13] Dodano nowy atak na koncie kubek225 (Œwiat 78)
+[11:46:13] Zedytowano atak na koncie kubek225 (Œwiat 78)
+[12:14:37] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:15:23] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:15:40] Zaimportowano dane konta: kubek225 ze slotu 1
+[12:15:43] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:15:43] Pobrano czas serwerowy
+[12:15:43] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[12:15:43] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[12:18:36] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:18:38] Zaimportowano dane konta: kubek225 ze slotu 1
+[12:18:43] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:18:43] Pobrano czas serwerowy
+[12:18:43] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[12:18:43] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[12:19:08] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:20:01] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:20:03] Zaimportowano dane konta: kubek225 ze slotu 1
+[12:20:06] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:20:06] Pobrano czas serwerowy
+[12:20:06] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[12:20:06] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[12:20:19] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:34] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:37] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:42] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:45] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:48] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:51] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:20:53] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:05] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:22:11] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:22:16] Zaimportowano dane konta: kubek225 ze slotu 1
+[12:22:18] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:22:18] Pobrano czas serwerowy
+[12:22:18] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[12:22:18] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[12:22:32] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:35] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:38] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:41] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:43] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:46] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:52] Wy³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:22:54] W³¹czono atak na koncie kubek225 (Œwiat 78)
+[12:23:00] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:28:57] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:29:00] Zaimportowano dane konta: kubek225 ze slotu 1
+[12:29:03] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:29:03] Pobrano czas serwerowy
+[12:29:03] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[12:29:03] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[12:29:19] Przerwano dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[12:29:20] Zaimportowano dane konta: genotypek ze slotu 2
+[12:29:22] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[12:29:22] Pobrano czas serwerowy
+[12:29:22] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[12:29:22] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[12:29:48] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:30:00] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:30:00] Zedytowano atak na koncie genotypek (Œwiat 80)
+[12:30:59] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:31:02] Zaimportowano dane konta: genotypek ze slotu 2
+[12:31:04] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[12:31:04] Pobrano czas serwerowy
+[12:31:04] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[12:31:04] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[12:31:04] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[12:31:16] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:31:16] Zedytowano atak na koncie genotypek (Œwiat 80)
+[12:31:24] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:31:24] Zedytowano atak na koncie genotypek (Œwiat 80)
+[12:32:04] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:32:08] Zaimportowano dane konta: genotypek ze slotu 2
+[12:32:10] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[12:32:10] Pobrano czas serwerowy
+[12:32:10] Wy³¹czono 1 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[12:32:10] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[12:32:10] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[12:32:22] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:32:22] Zedytowano atak na koncie genotypek (Œwiat 80)
+[12:32:27] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:32:30] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:32:38] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:50:31] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:51:06] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[12:51:13] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[12:51:20] Zaimportowano dane konta: genotypek ze slotu 2
+[12:51:24] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[12:51:24] Pobrano czas serwerowy
+[12:51:24] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[12:51:24] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[12:51:52] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:52:07] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:52:14] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:52:14] Zedytowano atak na koncie genotypek (Œwiat 80)
+[12:53:20] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:53:20] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:53:25] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:53:25] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[12:53:42] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[12:53:44] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:02:01] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:02:08] Zaimportowano dane konta: kubek225 ze slotu 1
+[13:02:12] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:02:12] Pobrano czas serwerowy
+[13:02:12] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[13:02:12] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[13:02:33] Przerwano dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:03:20] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:03:40] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:04:01] Zaimportowano dane konta: kubek225 ze slotu 1
+[13:04:05] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:04:05] Pobrano czas serwerowy
+[13:04:05] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[13:04:05] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[13:04:17] Przerwano dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:04:25] Rozpoczêto dzia³anie TW Master bota na koncie kubek225 (Œwiat 78)
+[13:04:25] Pobrano czas serwerowy
+[13:04:25] Za³adowano listê ataków na koncie kubek225 (Œwiat 78)
+[13:04:25] Pobrano listê wiosek konta kubek225 (Œwiat 78)
+[13:04:34] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:14:31] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:14:39] Zaimportowano dane konta: kubek225 ze slotu 1
+[13:14:41] Zaimportowano dane konta: genotypek ze slotu 2
+[13:14:43] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:14:43] Pobrano czas serwerowy
+[13:14:43] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:14:43] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:15:08] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:17:26] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:17:33] Zaimportowano dane konta: genotypek ze slotu 2
+[13:17:36] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:17:36] Pobrano czas serwerowy
+[13:17:36] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:17:36] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:18:59] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:19:06] Zaimportowano dane konta: genotypek ze slotu 2
+[13:19:08] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:19:08] Pobrano czas serwerowy
+[13:19:08] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:19:08] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:19:49] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:19:57] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:09] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:17] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:25] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:31] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:31] Zedytowano atak na koncie genotypek (Œwiat 80)
+[13:20:36] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:20:36] Zedytowano atak na koncie genotypek (Œwiat 80)
+[13:21:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:21:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:24:32] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:24:39] Zaimportowano dane konta: genotypek ze slotu 2
+[13:24:42] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:24:42] Pobrano czas serwerowy
+[13:24:42] Wy³¹czono 3 przedawnionych ataków na koncie genotypek (Œwiat 80)
+[13:24:42] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:24:42] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:25:05] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:25:07] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:25:08] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:25:08] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:27:40] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:27:50] Zaimportowano dane konta: genotypek ze slotu 2
+[13:27:52] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[13:27:52] Pobrano czas serwerowy
+[13:27:52] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[13:27:52] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[13:28:59] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:29:07] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:29:16] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:29:25] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:29:32] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[13:31:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:31:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[13:34:31] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:39:17] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:39:39] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:42:58] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:43:05] Zaimportowano dane konta: genotypek ze slotu 2
+[13:43:08] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 78)
+[13:43:12] Pobrano czas serwerowy
+[13:43:12] Za³adowano listê ataków na koncie genotypek (Œwiat 78)
+[13:43:18] Pobrano listê wiosek konta genotypek (Œwiat 78)
+[13:44:32] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:44:50] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:45:00] Zaimportowano dane konta: genotypek ze slotu 2
+[13:45:04] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 78)
+[13:45:08] Pobrano czas serwerowy
+[13:45:08] Za³adowano listê ataków na koncie genotypek (Œwiat 78)
+[13:45:15] Pobrano listê wiosek konta genotypek (Œwiat 78)
+[13:48:05] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:49:07] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:49:50] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:51:35] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:51:42] Zaimportowano dane konta: genotypek ze slotu 2
+[13:51:53] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:52:05] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:56:15] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:57:35] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[13:57:52] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[13:58:00] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[14:01:35] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[14:01:55] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[14:02:39] Zaimportowano dane konta: genotypek ze slotu 2
+[14:02:44] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[14:02:47] Pobrano czas serwerowy
+[14:02:47] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[14:02:47] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[14:04:11] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[14:04:17] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[14:04:26] Zaimportowano dane konta: genotypek ze slotu 2
+[14:04:30] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[14:04:33] Pobrano czas serwerowy
+[14:04:33] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[14:04:34] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[14:04:57] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:05:04] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:05:14] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:05:22] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:05:24] Wy³¹czono atak na koncie genotypek (Œwiat 80)
+[14:05:34] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:05:42] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:06:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:55] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:06:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[14:07:24] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[14:07:26] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[14:07:29] Pobrano czas serwerowy
+[14:07:29] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[14:07:30] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[14:07:33] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[14:14:48] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[15:46:03] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[15:46:16] Zaimportowano dane konta: genotypek ze slotu 2
+[15:47:49] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[15:47:52] Pobrano czas serwerowy
+[15:47:52] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[15:47:53] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[15:48:30] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:48:38] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:48:46] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:48:54] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:49:03] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:51:54] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:51:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:53:58] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:54:05] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:54:11] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:54:18] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:54:25] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[15:54:51] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:53] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:54:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[15:55:48] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[18:28:11] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[18:56:20] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[21:13:53] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[21:14:11] Zaimportowano dane konta: genotypek ze slotu 2
+[21:14:15] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[21:14:18] Pobrano czas serwerowy
+[21:14:18] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[21:14:20] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[21:15:03] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:09] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:16] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:25] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:35] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:41] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:15:41] Zedytowano atak na koncie genotypek (Œwiat 80)
+[21:17:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:57] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:57] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:17:57] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:18:27] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[21:22:52] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[21:23:05] Zaimportowano dane konta: genotypek ze slotu 2
+[21:23:10] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[21:23:15] Pobrano czas serwerowy
+[21:23:15] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[21:23:16] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[21:23:44] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:23:51] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:23:52] Zedytowano atak na koncie genotypek (Œwiat 80)
+[21:24:00] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:24:06] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:24:14] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:24:23] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:24:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:55] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:24:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:25:33] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:25:45] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:25:51] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:25:51] Zedytowano atak na koncie genotypek (Œwiat 80)
+[21:25:57] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:26:03] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:26:09] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[21:26:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:52] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:53] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:53] Przygotowywanie ataku do wys³ania na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:26:56] Wys³ano atak na koncie genotypek (Œwiat 80) na wioskê 417|567
+[21:27:22] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[21:27:24] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:52:48] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[22:53:15] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:55:37] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[22:55:46] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:55:57] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[22:56:05] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[22:56:13] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[22:56:35] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:05:31] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:05:38] Zaimportowano dane konta: genotypek ze slotu 2
+[23:05:42] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[23:05:45] Pobrano czas serwerowy
+[23:05:45] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[23:05:45] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[23:06:01] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:01] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:03] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:04] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:04] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:06] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:10] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:12] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:14] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:15] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:16] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:17] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[23:06:43] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:07:20] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:07:28] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:08:05] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:08:15] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:08:24] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:08:35] Zaimportowano dane konta: genotypek ze slotu 2
+[23:08:42] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[23:08:48] Pobrano czas serwerowy
+[23:08:48] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[23:08:49] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[23:08:52] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[23:09:35] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[23:09:58] Zaimportowano dane konta: genotypek ze slotu 2
+[23:10:04] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 78)
+[23:10:07] Pobrano czas serwerowy
+[23:10:07] Za³adowano listê ataków na koncie genotypek (Œwiat 78)
+[23:10:13] Pobrano listê wiosek konta genotypek (Œwiat 78)
+[23:10:14] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

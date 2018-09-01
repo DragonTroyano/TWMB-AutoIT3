@@ -1,0 +1,57 @@
+[10:58:37] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[10:58:45] Zaimportowano dane konta: genotypek ze slotu 2
+[10:58:49] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[10:58:56] Pobrano czas serwerowy
+[10:58:56] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[10:58:58] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[11:00:04] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[11:27:32] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:27:52] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[11:28:17] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:28:31] Zaimportowano dane konta: genotypek ze slotu 2
+[11:28:36] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[11:28:39] Pobrano czas serwerowy
+[11:28:39] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[11:28:40] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[11:29:22] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[11:29:28] Zaimportowano dane konta: genotypek ze slotu 2
+[11:29:32] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[11:29:35] Pobrano czas serwerowy
+[11:29:35] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[11:29:36] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[11:29:39] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[11:29:55] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[11:30:02] Zedytowano atak na koncie genotypek (Œwiat 80)
+[11:30:08] Zedytowano atak na koncie genotypek (Œwiat 80)
+[11:30:12] Zedytowano atak na koncie genotypek (Œwiat 80)
+[11:30:16] Wy³¹czono atak na koncie genotypek (Œwiat 80)
+[11:30:17] W³¹czono atak na koncie genotypek (Œwiat 80)
+[11:30:19] Dodano nowy atak na koncie genotypek (Œwiat 80)
+[11:33:31] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:12:38] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:12:50] Zaimportowano dane konta: genotypek ze slotu 2
+[16:12:55] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[16:12:59] Pobrano czas serwerowy
+[16:12:59] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[16:13:00] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[16:14:02] Przerwano dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[16:14:04] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:15:46] TW Master Bot v1.0.04 zosta³ uruchomiony...
+[16:18:42] Zaimportowano dane konta: genotypek ze slotu 2
+[16:18:46] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 80)
+[16:18:51] Pobrano czas serwerowy
+[16:18:51] Za³adowano listê ataków na koncie genotypek (Œwiat 80)
+[16:18:52] Pobrano listê wiosek konta genotypek (Œwiat 80)
+[18:43:11] TW Master Bot v1.0.04 zosta³ uruchomiony...

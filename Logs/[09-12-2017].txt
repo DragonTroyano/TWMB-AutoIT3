@@ -1,0 +1,7 @@
+[23:11:48] TW Master Bot v1.0.06 zosta³ uruchomiony...
+[23:11:53] Zaimportowano dane konta: genotypek ze slotu 3
+[23:11:55] Zaimportowano dane konta: genotypek ze slotu 2
+[23:12:00] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+

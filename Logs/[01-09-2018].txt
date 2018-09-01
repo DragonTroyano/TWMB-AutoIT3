@@ -1,0 +1,13 @@
+[16:05:56] TW Master Bot v1.0.08 zosta³ uruchomiony...
+[16:06:03] TW Master bot zosta³ wy³¹czony...
+
+------------------------------------------------------
+
+[16:06:19] TW Master Bot v1.0.08 zosta³ uruchomiony...
+[16:07:09] Zmieniono serwer na: http://www.plemiona.pl
+[16:07:13] Zmieniono serwer na: http://www.triburile.ro
+[16:07:18] Zmieniono serwer na: http://www.plemiona.pl
+[16:07:31] Zaimportowano dane konta: Mr Kot ze slotu 1
+[16:07:32] Zaimportowano dane konta: genotypek ze slotu 2
+[16:07:33] Zaimportowano dane konta: genotypek ze slotu 3
+[16:07:40] Rozpoczêto dzia³anie TW Master bota na koncie genotypek (Œwiat 11)
